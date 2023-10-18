@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9ba6f3b9-ac41-4149-898c-4a29d008e5b3" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/background/background-sand.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage_regions.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage_regions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "//wsl$/Ubuntu-22.04/home/khessels/costaricapcb/derish.com/images",
+    "last_opened_file_path": "//wsl$/Ubuntu-22.04/home/khessels/costaricapcb/derish.com/images/background",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,6 +50,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu-22.04\home\khessels\costaricapcb\derish.com\images\background" />
       <recent name="\\wsl$\Ubuntu-22.04\home\khessels\costaricapcb\derish.com\images" />
       <recent name="C:\Users\cbmhe\Downloads\themeforest-FVq5ifw3-right-of-law-attorney-lawyer-and-law-agency-html-template\right of law pack\Right -of-Law" />
     </key>
@@ -70,7 +70,7 @@
       <workItem from="1696879276482" duration="4172000" />
       <workItem from="1696883578335" duration="7775000" />
       <workItem from="1696969583490" duration="6000" />
-      <workItem from="1697591508908" duration="4695000" />
+      <workItem from="1697591508908" duration="5543000" />
     </task>
     <servers />
   </component>
