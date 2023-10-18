@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="9ba6f3b9-ac41-4149-898c-4a29d008e5b3" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage_regions.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage_regions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +20,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -34,9 +38,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "//wsl$/Ubuntu-22.04/home/khessels/costaricapcb/Derish",
+    "last_opened_file_path": "//wsl$/Ubuntu-22.04/home/khessels/costaricapcb/derish.com",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,7 +67,9 @@
       <workItem from="1696470995317" duration="2382000" />
       <workItem from="1696519824297" duration="16000" />
       <workItem from="1696879276482" duration="4172000" />
-      <workItem from="1696883578335" duration="4379000" />
+      <workItem from="1696883578335" duration="7775000" />
+      <workItem from="1696969583490" duration="6000" />
+      <workItem from="1697591508908" duration="337000" />
     </task>
     <servers />
   </component>
