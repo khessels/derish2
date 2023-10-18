@@ -6,36 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9ba6f3b9-ac41-4149-898c-4a29d008e5b3" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo-small.old.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Accident-Injuries.html" beforeDir="false" afterPath="$PROJECT_DIR$/Accident-Injuries.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Business-Taxation.html" beforeDir="false" afterPath="$PROJECT_DIR$/Business-Taxation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Civil-Litigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/Civil-Litigation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Education-Law.html" beforeDir="false" afterPath="$PROJECT_DIR$/Education-Law.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Family-law.html" beforeDir="false" afterPath="$PROJECT_DIR$/Family-law.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Request-Quote.html" beforeDir="false" afterPath="$PROJECT_DIR$/Request-Quote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trade-&amp;-Finance-law.html" beforeDir="false" afterPath="$PROJECT_DIR$/Trade-&amp;-Finance-law.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-single.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-single.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-style-column.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-style-column.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog-style-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog-style-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage_regions.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage_regions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/error-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/error-page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/faq.html" beforeDir="false" afterPath="$PROJECT_DIR$/faq.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-small.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo-small.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-three.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo-three.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-2.old.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-2.old.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/our-history.html" beforeDir="false" afterPath="$PROJECT_DIR$/our-history.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-style-one.html" beforeDir="false" afterPath="$PROJECT_DIR$/service-style-one.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-style-two.html" beforeDir="false" afterPath="$PROJECT_DIR$/service-style-two.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/team-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-style-one.html" beforeDir="false" afterPath="$PROJECT_DIR$/team-style-one.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team-style-two.html" beforeDir="false" afterPath="$PROJECT_DIR$/team-style-two.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +68,7 @@
       <workItem from="1696879276482" duration="4172000" />
       <workItem from="1696883578335" duration="7775000" />
       <workItem from="1696969583490" duration="6000" />
-      <workItem from="1697591508908" duration="4272000" />
+      <workItem from="1697591508908" duration="4540000" />
     </task>
     <servers />
   </component>
