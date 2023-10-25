@@ -6,9 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="9ba6f3b9-ac41-4149-898c-4a29d008e5b3" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/background/background-sand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SvelteKit/my-app/src/components/Alert.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SvelteKit/my-app/src/lib/Navbar.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SvelteKit/my-app/src/routes/+layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SvelteKit/my-app/src/routes/+page.server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SvelteKit/my-app/src/routes/about/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SvelteKit/my-app/src/routes/login/+layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SvelteKit/my-app/src/routes/login/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SvelteKit/my-app/src/routes/register/+layout.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SvelteKit/my-app/src/routes/register/+page.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SvelteKit/my-app/src/stores.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coverage_regions.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage_regions.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,22 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "//wsl$/Ubuntu-22.04/home/khessels/costaricapcb/derish.com/images/background",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu-22.04/home/khessels/costaricapcb/F7&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="\\wsl$\Ubuntu-22.04\home\khessels\costaricapcb\derish.com\images\background" />
@@ -71,6 +83,8 @@
       <workItem from="1696883578335" duration="7775000" />
       <workItem from="1696969583490" duration="6000" />
       <workItem from="1697591508908" duration="5543000" />
+      <workItem from="1697661590246" duration="30000" />
+      <workItem from="1698193385291" duration="2698000" />
     </task>
     <servers />
   </component>
