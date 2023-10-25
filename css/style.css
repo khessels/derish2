@@ -3627,8 +3627,8 @@ position: relative;
 
 .main-footer{
 	position:relative;
-	background: #606060FF;
-	color:#aaaaaa;
+	background: #e7e7e7;
+	color: #2b2727;
 }
 
 .main-footer .widgets-section{
@@ -3656,7 +3656,7 @@ position: relative;
 }
 
 .main-footer .footer-column h2 {
-	color: #ffffff;
+	color: #2b2727;
 	font-size: 16px;
 	font-weight: 600;
 	margin-bottom: 25px;
@@ -3701,7 +3701,7 @@ position: relative;
 .main-footer .social-links li a{
 	display:inline-block;
 	line-height:24px;
-	color:#aaaaaa;
+	color: #2b2727;
 	font-size:13px;
 }
 
@@ -3762,7 +3762,7 @@ position: relative;
 	display:block;
 	line-height:24px;
 	padding:8px 0px 8px 20px;
-	color:#aaaaaa;
+	color: #2b2727;
 	text-transform:capitalize;	
 }
 
